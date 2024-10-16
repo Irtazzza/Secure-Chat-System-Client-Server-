@@ -1,4 +1,4 @@
-Secure Chat System
+
 Hi, I’m Irtaza, and today I’m sharing a Secure Chat System that I’ve developed as part of my Cyber Security assignment. 
 This assignment focuses on building a secure communication platform between a client and a server using C++. The main objective 
 was to ensure that messages exchanged between the client and server are encrypted and secure.
